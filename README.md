@@ -31,6 +31,6 @@ Apaixonado por tecnologia.
 ### Últimos Projetos:
 - [ Login Responsivo - PHP com MSQL](https://github.com/BrunnoWin/Login-Cadastro-Responsivo-PHP-MSQL)<br/>
 - [Crud Cadastro Cliente - Php + Msql + Bootstrap 4 versão 2.0](https://github.com/BrunnoWin/Projeto-Crud-Cadastro-cliente-Php-Msql-Bootstrap-4-versao2)<br/>
-- [Landing page Clube da luta - HTML + CSS +  Bootstrap 5](https://teste.com)<br/>
+- [Landing page Clube da luta - HTML + CSS +  Bootstrap 5](https://github.com/BrunnoWin/Landing-page-Clube-da-luta-HTML-CSS-jJS-Bootstrap-5)<br/>
 - [Sistema de Condominios - Python + Sqlite + Tkinter](https://github.com/BrunnoWin/Projetos-em-Python-Tkinter)<br/>
 
